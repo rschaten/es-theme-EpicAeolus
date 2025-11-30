@@ -4,7 +4,7 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>Nintendo GameBoy</text>
+      <text>Nintendo Game Boy</text>
     </text>
   </view>
   <view name="system">
@@ -12,7 +12,7 @@
       <text>Nintendo</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>GameBoy</text>
+      <text>Game Boy</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1989  &#xB7;  8-bit Handheld Console</text>

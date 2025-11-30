@@ -8,6 +8,9 @@
     </text>
   </view>
   <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Commodore International</text>
+    </text>
     <text name="sys_line2" extra="true">
       <text>Amiga CD32</text>
     </text>

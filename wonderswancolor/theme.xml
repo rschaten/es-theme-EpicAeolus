@@ -4,15 +4,15 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>Wonderswan Color</text>
+      <text>Bandai Wonderswan Color</text>
     </text>
   </view>
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>Wonderswan</text>
+      <text>Bandai</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>Color</text>
+      <text>Wonderswan Color</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1999  &#xB7;  16-bit Handheld Console</text>

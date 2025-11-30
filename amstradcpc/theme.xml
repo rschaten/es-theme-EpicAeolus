@@ -8,8 +8,11 @@
     </text>
   </view>
   <view name="system">
-    <text name="sys_line2" extra="true">
+    <text name="sys_line1" extra="true">
       <text>Amstrad</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>CPC</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1984  &#xB7;  8-bit Computer</text>

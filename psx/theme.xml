@@ -4,7 +4,7 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>Sony Playstation</text>
+      <text>Sony PlayStation</text>
     </text>
   </view>
   <view name="system">
@@ -12,7 +12,7 @@
       <text>Sony</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>Playstation</text>
+      <text>PlayStation</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1994  &#xB7;  32-bit Console</text>

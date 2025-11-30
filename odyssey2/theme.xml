@@ -9,10 +9,10 @@
   </view>
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>magnavox</text>
+      <text>Magnavox</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>odyssey 2</text>
+      <text>Odyssey 2</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1978  &#xB7;  8-bit Console</text>

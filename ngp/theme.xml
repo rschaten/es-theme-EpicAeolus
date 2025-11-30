@@ -9,10 +9,10 @@
   </view>
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>Neo Geo</text>
+      <text>SNK</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>Pocket</text>
+      <text>Neo Geo Pocket</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1998  &#xB7;  16-bit Handheld Console</text>

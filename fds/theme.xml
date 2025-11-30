@@ -9,10 +9,10 @@
   </view>
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>Famicom Disk</text>
+      <text>Nintendo</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>System</text>
+      <text>Famicom Disk System</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1986  &#xB7;  8-bit Console</text>

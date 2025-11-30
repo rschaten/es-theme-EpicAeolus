@@ -8,6 +8,9 @@
     </text>
   </view>
   <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>The 3DO Company</text>
+    </text>
     <text name="sys_line2" extra="true">
       <text>3DO</text>
     </text>

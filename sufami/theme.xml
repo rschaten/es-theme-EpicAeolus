@@ -4,15 +4,15 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>sufami turbo</text>
+      <text>SuFami Turbo</text>
     </text>
   </view>
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>bandai</text>
+      <text>Bandai</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>sufami turbo</text>
+      <text>SuFami Turbo</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1996  &#xB7;  16-bit accessory</text>

@@ -4,12 +4,12 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>MSX 2</text>
+      <text>MSX2</text>
     </text>
   </view>
   <view name="system">
     <text name="sys_line2" extra="true">
-      <text>MSX 2</text>
+      <text>MSX2</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1984  &#xB7;  16-bit Computer</text>

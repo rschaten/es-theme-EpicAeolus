@@ -4,7 +4,7 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>Coleco Vision</text>
+      <text>ColecoVision</text>
     </text>
   </view>
   <view name="system">
@@ -12,7 +12,7 @@
       <text>Coleco</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>Vision</text>
+      <text>ColecoVision</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1982  &#xB7;  8-bit Console</text>

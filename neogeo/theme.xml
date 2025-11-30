@@ -9,7 +9,7 @@
   </view>
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>SNK</text>
+      <text>SNK Corporation</text>
     </text>
     <text name="sys_line2" extra="true">
       <text>Neo Geo</text>

@@ -4,15 +4,15 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>COCO TRS-80</text>
+      <text>CoCo TRS-80</text>
     </text>
   </view>
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>Color COMPUTER</text>
+      <text>Tandy Corporation</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>COCO TRS-80</text>
+      <text>CoCo TRS-80</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1977  &#xB7;  8-bit Computer</text>

@@ -4,12 +4,15 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>Playstation Portable</text>
+      <text>Sony PlayStation Portable</text>
     </text>
   </view>
   <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sony</text>
+    </text>
     <text name="sys_line2" extra="true">
-      <text>SONY PSP</text>
+      <text>PlayStation Portable</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>2004  &#xB7;  32-bit Handheld Console</text>

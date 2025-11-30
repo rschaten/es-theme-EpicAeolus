@@ -4,10 +4,13 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>COMMODORE VIC-20</text>
+      <text>Commodore VIC-20</text>
     </text>
   </view>
   <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Commodore Business Machines</text>
+    </text>
     <text name="sys_line2" extra="true">
       <text>VIC-20</text>
     </text>

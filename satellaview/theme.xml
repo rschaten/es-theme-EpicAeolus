@@ -4,15 +4,15 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>Satellaview Super Nintendo</text>
+      <text>Super Nintendo Satellaview</text>
     </text>
   </view>
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>Super nintendo</text>
+      <text>Nintendo</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>satellaview</text>
+      <text>Satellaview</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1995  &#xB7;  16-bit Accessory</text>

@@ -4,15 +4,15 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>CAPCOM SYSTEM I</text>
+      <text>CP System</text>
     </text>
   </view>
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>CAPCOM PLAY</text>
+      <text>Capcom</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>SYSTEM I</text>
+      <text>CP System</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1988  &#xB7;  Arcade Board</text>

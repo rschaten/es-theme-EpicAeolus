@@ -4,7 +4,7 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>Sony Playstation 2</text>
+      <text>Sony PlayStation 2</text>
     </text>
   </view>
   <view name="system">
@@ -12,10 +12,10 @@
       <text>Sony</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>Playstation 2</text>
+      <text>PlayStation 2</text>
     </text>
     <text name="shortdescription" extra="true">
-      <text>2000  &#xB7;  128-bit Console</text>
+      <text>2000  &#xB7;  64-bit Console</text>
     </text>
     <text name="longdescription" extra="true">
       <text>The PlayStation 2 is the best-selling video game console of all time, selling over 155 million units.</text>

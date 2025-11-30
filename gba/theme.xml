@@ -4,15 +4,15 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>GameBoy Advance</text>
+      <text>Nintendo Game Boy Advance</text>
     </text>
   </view>
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>NINTENDO gameboy</text>
+      <text>Nintendo</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>Advance</text>
+      <text>Game Boy Advance</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>2001  &#xB7;  32-bit Handheld Console</text>

@@ -4,7 +4,7 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>Sega Mega 32x</text>
+      <text>Sega 32X</text>
     </text>
   </view>
   <view name="system">
@@ -12,7 +12,7 @@
       <text>Sega</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>Mega 32x</text>
+      <text>32X</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1994  &#xB7;  32-bit Console</text>

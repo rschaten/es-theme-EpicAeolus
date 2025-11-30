@@ -4,7 +4,7 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>Sega GameGear</text>
+      <text>Sega Game Gear</text>
     </text>
   </view>
   <view name="system">
@@ -12,7 +12,7 @@
       <text>Sega</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>GameGear</text>
+      <text>Game Gear</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1990  &#xB7;  8-bit Handheld Console</text>

@@ -4,7 +4,7 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>Nintendo Super-GameBoy</text>
+      <text>Nintendo Super Game Boy</text>
     </text>
   </view>
   <view name="system">
@@ -12,13 +12,13 @@
       <text>Nintendo</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>Super-GameBoy</text>
+      <text>Super Game Boy</text>
     </text>
     <text name="shortdescription" extra="true">
-      <text>1989  &#xB7;  8-bit Handheld Console</text>
+      <text>1994  &#xB7;  Cartridge Adapter</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>Nintendo's second handheld system following the Game &amp; Watch series. It mainly competed with Game Gear and Lynx.</text>
+      <text>The Super Game Boy is a peripheral that allows Game Boy cartridges to be played on a Super Nintendo Entertainment System console.</text>
     </text>
   </view>
 </theme>

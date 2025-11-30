@@ -4,15 +4,15 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>UZEBOX</text>
+      <text>Uzebox</text>
     </text>
   </view>
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>open source</text>
+      <text>Open Source</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>UZEBOX</text>
+      <text>Uzebox</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>2007  &#xB7;  8-bit Console</text>

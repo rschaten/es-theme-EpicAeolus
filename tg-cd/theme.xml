@@ -4,12 +4,15 @@
   <include>./../theme.xml</include>
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>TurboGrafx CD</text>
+      <text>TurboGrafx-CD</text>
     </text>
   </view>
   <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>NEC</text>
+    </text>
     <text name="sys_line2" extra="true">
-      <text>TurboGrafx CD</text>
+      <text>TurboGrafx-CD</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1990  &#xB7;  16-bit Console</text>

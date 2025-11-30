@@ -8,8 +8,11 @@
     </text>
   </view>
   <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Commodore Business Machines</text>
+    </text>
     <text name="sys_line2" extra="true">
-      <text>Commodore</text>
+      <text>Commodore 64</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1982  &#xB7;  8-bit Computer</text>
